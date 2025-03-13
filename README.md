@@ -1,6 +1,6 @@
 # CryptoApp - Frontend
 
-This is the frontend of a CryptoApp, developed using **React, Vite, Tailwind CSS, and WebSockets**. The platform allows users to trade cryptocurrencies, track their portfolio, and analyze performance.
+This is the frontend of a CryptoApp, developed using **React**, **Vite**, **Tailwind CSS**, and **WebSockets**. The platform allows users to trade cryptocurrencies, track their portfolio, and analyze performance.
 
 ## Backend API Repository
 
