@@ -2,11 +2,9 @@
 
 This is the frontend of a CryptoApp, developed using **React**, **Vite**, **Tailwind CSS**, and **WebSockets**. The platform allows users to trade cryptocurrencies, track their portfolio, and analyze performance.
 
-## Backend API Repository
+## Backend Repository
 
-The frontend interacts with a **Spring Boot** backend that handles authentication, trading logic, and real-time data updates.
-
-Backend repository: [CryptoApp Backend](https://github.com/MarkOmelyanenko/crypto-app-backend)
+The Backend for this project is available at: [CryptoApp Backend](https://github.com/MarkOmelyanenko/crypto-app-backend)
 
 ## Features
 
